@@ -3,7 +3,7 @@ Prototype Application for the Training in Tools for WEB GIS
 
 ## Getting Started
 ### Setup
-git clone https://github.com/jmmaguigad/Simple-UCT-Search-Information-Search.git
+git clone https://github.com/jmmaguigad/Simple-UCT-Search-Information-Search.git in your web server
 
 ### Usage
 > Go to your mapbox studio account and you can use your public token or you can create your own.
