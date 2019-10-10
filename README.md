@@ -7,7 +7,7 @@ git clone https://github.com/jmmaguigad/Simple-UCT-Search-Information-Search.git
 
 ### Usage
 > Go to your mapbox studio account and you can use your public token or you can create your own.
-> After getting or creating your access token, navigate to line 3 > edit mapboxgl access token.
+> After getting or creating your access token, navigate to line 3 main.js > edit mapboxgl access token.
 
 ## Built With
 * Mapbox SDK
