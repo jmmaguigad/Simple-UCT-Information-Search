@@ -12,3 +12,4 @@ git clone https://github.com/jmmaguigad/Simple-UCT-Search-Information-Search.git
 ## Built With
 * Mapbox SDK
 * Jquery
+* CSS3
