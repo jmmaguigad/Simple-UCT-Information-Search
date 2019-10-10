@@ -1,4 +1,4 @@
-# Simple-UCT-Search-Information-Search
+# Simple-UCT-Information-Search
 Prototype Application for the Training in Tools for WEB GIS
 
 ## Getting Started
